@@ -1,0 +1,17 @@
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\bin\Debug\ModernDesign.exe.config
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\bin\Debug\ModernDesign.exe
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\bin\Debug\ModernDesign.pdb
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.AssemblyReference.cache
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\MainWindow.g.cs
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\App.g.cs
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign_MarkupCompile.cache
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign_MarkupCompile.lref
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\App.baml
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\MainWindow.baml
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.g.resources
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.Properties.Resources.resources
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.GenerateResource.cache
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.csproj.CoreCompileInputs.cache
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.exe
+C:\Users\Jialin\Desktop\ModernDesign\ModernDesign\obj\Debug\ModernDesign.pdb
